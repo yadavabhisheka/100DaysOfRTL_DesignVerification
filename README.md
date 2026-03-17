@@ -10,6 +10,6 @@ This Repository documents my 100-day journey mastering:
 ## Goal
 Become Industry-ready for VLSI Design & Verification Roles.
 
-## Progress 
-- [x] Day 01 - Basic Logic Gates
-- [] Day 02 - NAND, NOR, XOR, XNOR
+## Progress
+- [x] Day 01 — Basic Logic Gates (AND, OR, NOT, NAND, NOR)
+  
